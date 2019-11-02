@@ -2,11 +2,6 @@
 
 This is actually just the begining of this repo, so am not sure if Pixel Art for example should be in this repo
 
-Pixel art
----
-
-- http://pixeljoint.com/
-
 Tutorials
 ---
 
@@ -20,10 +15,15 @@ Culture
 - http://www.blogduwebdesign.com/
 - https://pyramyd-editions.com/
 
-Images
+Photo
 ---
 
 - https://unsplash.com/
+
+Pixel art
+---
+
+- http://pixeljoint.com/
 
 Ressources
 ---
