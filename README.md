@@ -1,11 +1,11 @@
 # Awsome webdesign
 
-This is actually just the begining of this repo
+This is actually just the begining of this repo, so am not sure if Pixel Art for example should be in this repo
 
 Pixel art
 ---
 
-- pixeljoint.com/
+- http://pixeljoint.com/
 
 Tutorials
 ---
