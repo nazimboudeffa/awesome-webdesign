@@ -38,3 +38,10 @@ Tools
 - https://www.figma.com/
 - https://paletton.com/
 - https://coolors.co/
+
+Blogs
+---
+
+- Anna Tudor
+  - https://css-tricks.com/author/thebabydino
+  - https://codepen.io/thebabydino 
