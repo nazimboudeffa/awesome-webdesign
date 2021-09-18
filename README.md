@@ -42,6 +42,6 @@ Tools
 Blogs
 ---
 
-- Anna Tudor
+- Ana Tudor
   - https://css-tricks.com/author/thebabydino
   - https://codepen.io/thebabydino 
