@@ -43,6 +43,7 @@ Tools
 - https://www.figma.com/
 - https://paletton.com/
 - https://coolors.co/
+- https://cssgradient.io/
 
 Blogs
 ---
