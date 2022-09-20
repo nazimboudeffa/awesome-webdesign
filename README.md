@@ -30,11 +30,13 @@ Free Pictures
 
 - https://www.rawpixel.com/
 
-SVG
+Illustrations
 ---
 
 - https://www.svgrepo.com/
 - https://www.humaaans.com/
+- https://www.blobmaker.app/
+- https://heropatterns.com/
 
 Palettes
 ---
