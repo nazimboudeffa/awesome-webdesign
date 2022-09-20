@@ -34,6 +34,7 @@ SVG
 ---
 
 - https://www.svgrepo.com/
+- https://www.humaaans.com/
 
 Palettes
 ---
