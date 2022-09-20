@@ -30,6 +30,11 @@ Free Pictures
 
 - https://www.rawpixel.com/
 
+SVG
+---
+
+- https://www.svgrepo.com/
+
 Ressources
 ---
 
