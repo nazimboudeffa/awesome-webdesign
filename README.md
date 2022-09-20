@@ -35,6 +35,11 @@ SVG
 
 - https://www.svgrepo.com/
 
+Palettes
+---
+
+- https://flatuicolors.com/
+
 Ressources
 ---
 
