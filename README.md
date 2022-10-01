@@ -43,6 +43,11 @@ Palettes
 
 - https://flatuicolors.com/
 
+Logos
+---
+
+- https://logomakr.com/
+
 Ressources
 ---
 
