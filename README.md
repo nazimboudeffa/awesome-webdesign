@@ -46,7 +46,7 @@ Palettes
 Logos
 ---
 
-- https://logomakr.com/
+- https://logomakr.com/ PAID
 
 Ressources
 ---
