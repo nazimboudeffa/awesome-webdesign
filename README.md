@@ -29,6 +29,7 @@ Free Pictures
 ---
 
 - https://www.rawpixel.com/
+- https://freepik.com/
 
 Illustrations
 ---
@@ -43,10 +44,11 @@ Palettes
 
 - https://flatuicolors.com/
 
-Logos
+Logos, Icons
 ---
 
 - https://logomakr.com/ PAID
+- https://www.iconfinder.com/
 
 Ressources
 ---
