@@ -56,6 +56,7 @@ Ressources
 - https://graphicburger.com/
 - https://www.shutterstock.com/ (non commercial)
 - https://placeit.net/
+- https://canva.com
 
 Tools
 ---
