@@ -72,3 +72,9 @@ Blogs
 - Ana Tudor
   - https://css-tricks.com/author/thebabydino
   - https://codepen.io/thebabydino 
+
+Video
+---
+
+- https://www.unicornads.com/ paid
+- https://www.kapwing.com/ free starter
