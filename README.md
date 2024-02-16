@@ -49,7 +49,10 @@ Logos, Icons
 
 - https://logomakr.com/ PAID
 - https://www.iconfinder.com/
-
+- https://www.flaticon.com
+- https://heroicons.com/
+- https://lucide.dev/
+  
 Ressources
 ---
 
