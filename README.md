@@ -39,6 +39,11 @@ Illustrations
 - https://www.blobmaker.app/
 - https://heropatterns.com/
 
+Animations
+---
+
+- https://lottiefiles.com/
+
 Palettes
 ---
 
